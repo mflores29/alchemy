@@ -1,2 +1,2 @@
 # alchemy
-Website Project for DIG2300C
+Website Project for DIG2500C
